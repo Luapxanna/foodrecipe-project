@@ -13,3 +13,6 @@ Semester 1, Academic year: 2024-2025
 **Student Name 2**: Le Quoc Dat
 
 **Class Number**: M03
+
+This project was originally developed by group, this is a copy of the Github Classrom repository.
+The app is a minisocial media application built with Nodejs and Vuejs, allows users to find recipes and create recipes post of themselves.
